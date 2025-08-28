@@ -30,7 +30,7 @@ export default function StickyNav() {
             <div className="w-10 h-10 bg-gradient-to-r from-[#1E2A38] to-[#3AAFA9] rounded-lg flex items-center justify-center">
               <Anchor className="w-6 h-6 text-white" />
             </div>
-            <span className="text-xl font-bold text-[#1E2A38]">Harbor Creative</span>
+            <span className="text-xl font-bold text-[#1E2A38]">Harbor Design House</span>
           </div>
           
           <div className="hidden md:flex items-center space-x-8">

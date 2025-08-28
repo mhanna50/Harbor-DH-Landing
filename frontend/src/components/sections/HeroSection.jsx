@@ -26,7 +26,7 @@ export default function HeroSection() {
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-600 mb-8 leading-relaxed max-w-3xl mx-auto">
-            Harbor Creative is your partner in branding, websites, and social media management. 
+            Harbor Design House is your partner in branding, websites, and social media management. 
             Let us navigate your brand to success.
           </p>
 
