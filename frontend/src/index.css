@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* Brand tokens */
+:root {
+  --brand-navy: #1E2A38;
+  --brand-navy-dark: #18222f;
+  --brand-teal: #3AAFA9;
+  --brand-teal-dark: #2E8B87;
+  --brand-sand: #F4E1C1;
+}
+
+body {
+  font-family: 'Inter', ui-sans-serif, system-ui;
+  color: var(--brand-navy);
+  background-color: #fff;
+}
